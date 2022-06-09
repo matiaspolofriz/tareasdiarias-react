@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tareasdiarias-react/static/css/main.bfed7f9f.css",
+    "main.js": "/tareasdiarias-react/static/js/main.cf57c25b.js",
+    "static/media/react.png": "/tareasdiarias-react/static/media/react.a544fd8cf64d82898e91.png",
+    "index.html": "/tareasdiarias-react/index.html",
+    "main.bfed7f9f.css.map": "/tareasdiarias-react/static/css/main.bfed7f9f.css.map",
+    "main.cf57c25b.js.map": "/tareasdiarias-react/static/js/main.cf57c25b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfed7f9f.css",
+    "static/js/main.cf57c25b.js"
+  ]
+}
